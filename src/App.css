@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+.message{
+  color:rgb(219, 37, 37);
+}
+.MuiAvatar-root{
+  text-align: center;
+ margin-top: 45px;
+}
+.MuiTypography-root {
+  text-align: center; 
+}
