@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Sas-Kirakosyan/signin-form-react/static/css/main.6604c1a8.chunk.css",
+    "main.js": "/Sas-Kirakosyan/signin-form-react/static/js/main.e80984df.chunk.js",
+    "main.js.map": "/Sas-Kirakosyan/signin-form-react/static/js/main.e80984df.chunk.js.map",
+    "runtime-main.js": "/Sas-Kirakosyan/signin-form-react/static/js/runtime-main.56bb1f12.js",
+    "runtime-main.js.map": "/Sas-Kirakosyan/signin-form-react/static/js/runtime-main.56bb1f12.js.map",
+    "static/js/2.18978b74.chunk.js": "/Sas-Kirakosyan/signin-form-react/static/js/2.18978b74.chunk.js",
+    "static/js/2.18978b74.chunk.js.map": "/Sas-Kirakosyan/signin-form-react/static/js/2.18978b74.chunk.js.map",
+    "index.html": "/Sas-Kirakosyan/signin-form-react/index.html",
+    "precache-manifest.927852eb40ea276c0e2b13254809de4e.js": "/Sas-Kirakosyan/signin-form-react/precache-manifest.927852eb40ea276c0e2b13254809de4e.js",
+    "service-worker.js": "/Sas-Kirakosyan/signin-form-react/service-worker.js",
+    "static/css/main.6604c1a8.chunk.css.map": "/Sas-Kirakosyan/signin-form-react/static/css/main.6604c1a8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56bb1f12.js",
+    "static/js/2.18978b74.chunk.js",
+    "static/css/main.6604c1a8.chunk.css",
+    "static/js/main.e80984df.chunk.js"
+  ]
+}
